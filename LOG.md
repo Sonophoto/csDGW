@@ -10,7 +10,6 @@
     sudo apt upgrade
     sudo apt install mono-complete
     sudo apt install mono-dbg
-    sudo apt install mono-
 
 #### Tested installation by following build instructions at: [The Mono Project: Mono Basics](http://www.mono-project.com/docs/getting-started/mono-basics/)
 
