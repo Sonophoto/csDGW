@@ -50,5 +50,13 @@ Mono Project system appears to be installed normally with possible exception of 
 
 [The Mono Project: Getting Started](http://www.mono-project.com/docs/getting-started/)
 
+[Microsoft Developer Network: C#](https://mva.microsoft.com/training-topics/c-app-development#!index=2&orderby=relevance&jobf=Developer&lang=1033)
+
+[MSDN: XML Documentation Comments](https://msdn.microsoft.com/en-us/library/b2s063f7(v=vs.90).aspx)
+
+
+
+
+
 
 
