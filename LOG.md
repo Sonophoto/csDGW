@@ -44,8 +44,7 @@
     ~/src/csDGW $ mono Hello_GTK_World.exe
     ~/src/csDGW $  [ DREW GTK WINDOW WITH TITLE: "Hello GTK World" ]
     
-System appears to be installed normally with possible exception of TLS/HTTPS test may need to be updated with current API.    
-
+Mono Project system appears to be installed normally with possible exception of TLS/HTTPS test may need to be updated with current API. Added a bug to the repo this issue.
 
 #### References on C#:
 [C# Tutorial at Tutorials Point](https://www.tutorialspoint.com/csharp/index.htm)
